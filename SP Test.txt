@@ -1,7 +1,0 @@
-Latest_getdetailedtimesheetforreport() => 71 msec 
-
-1_getdetailedtimesheetforreport() => 85 msec 
-2_getdetailedtimesheetforreport() => 124 msec 
-3_getdetailedtimesheetforreport() => 78 msec
-4_getdetailedtimesheetforreport() => 88 msec
-5_getdetailedtimesheetforreport() => 84 mse
